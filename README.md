@@ -1,4 +1,4 @@
-# Base para BOT de Discord con comandos básicos
+<em> # Base para BOT de Discord con comandos básicos </em> 
 Comandos: avatar, ayuda, ban, clear, invitar, md, ping o server.
 Más: Configuracuón Actividad, paquete discord.js, mensajes en español.
 
