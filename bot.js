@@ -37,4 +37,4 @@ client.on('messageCreate', message => {
     }
 });
 
-client.login('MTE2NDYzMjU2NzA2NTEwNDUxNQ.G16XcP.pLdfk9d_V9eBQZ_MCVbrieMShaztkpHU1Z8LQE');
+client.login('TOKEN_AQUI');
