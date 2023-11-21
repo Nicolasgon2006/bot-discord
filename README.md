@@ -1,4 +1,6 @@
 # Base para BOT de Discord con comandos básicos
+Comandos: avatar, ayuda, ban, clear, invitar, md, ping o server.
+Más: Configuracuón Actividad, paquete discord.js, mensajes en español.
 
 # Sobre
 Este bot ha sido desarrollado con NODE.js y VisualStudioCode.
