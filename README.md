@@ -1,21 +1,15 @@
 <div align="center">
-<a href="https://discord.js.org"><img src="https://discord.js.org/static/logo.svg" width="546" alt="discord.js" /></a>
+<a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alamarte.com%2Findex.php%2Farticulos%2Ffaq%2Fque-es-html5-y-css3&psig=AOvVaw081prP_kWNlrLlwWjPG7St&ust=1700772802240000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCJi8e-2IIDFQAAAAAdAAAAABAE" width="546" alt="discord.js" /></a>
 </div>
 
-# Base para BOT de Discord con comandos básicos
-- Comandos: avatar, ayuda, ban, clear, invitar, md, ping o server.
-- Más: Configuracuón Actividad, paquete discord.js, mensajes en español.
+# Portfolio Página Web
+- Desarrollado en HTML y CSS.
 
 # Sobre
 Este bot ha sido desarrollado con NODE.js y Visual Studio Code.
 
-# Instalación
-Se necesita Node.js 16.11.0 o superior.
-
 # Referencias
 
-- [Discord.js](https://discord.js.org/)
-- [NPM.js](https://www.npmjs.com/package/discord.js)
-- [Discord.js GitHub](https://github.com/discordjs/discord.js)
-- [Documentación](https://discord.js.org/docs/packages/discord.js/14.14.1)
+- [Documentación HTML Mozilla](https://developer.mozilla.org/es/docs/Web/HTML)
+- [Documentación CSS Mozilla (https://www.npmjs.com/package/discord.js](https://developer.mozilla.org/es/docs/Web/css)
 
