@@ -23,3 +23,7 @@ Se necesita Node.js 16.11.0 o superior.
 - [NPM.js](https://www.npmjs.com/package/discord.js)
 - [Discord.js GitHub](https://github.com/discordjs/discord.js)
 - [Documentación](https://discord.js.org/docs/packages/discord.js/14.14.1)
+
+---------------------------------------------------------------------------
+
+Desarrollado con Node.js 16.11.0
