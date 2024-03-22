@@ -8,9 +8,14 @@
 
 # Sobre
 Este bot ha sido desarrollado con NODE.js y Visual Studio Code.
-
-# Instalación
+- Requisitos
 Se necesita Node.js 16.11.0 o superior.
+
+# Pasos a seguir
+- Añade el bot a tu servidor mediante el [Portal de Desarrolladores de Discord](https://discord.com/developers/applications/).
+- Añade el TOKEN de tu bot al archivo principal.
+- Ejecuta el archivo "iniciar.bat" y espera un poco.
+
 
 # Referencias
 
